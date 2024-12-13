@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://[Log in to view URL]'))()
+local Rayfield = loadstring(game:HttpGet('https://github.com/NoncTheDevRBX/Nonc-Hub.git'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "Nonc Universal Hub",
